@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.vscode/
+.venv/
+venv/
+.DS_Store
+*.tmp
+# hasil simpanan program (data pengguna, bukan bagian kode)
+data/hasil_analisis.txt
