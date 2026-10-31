@@ -27,7 +27,7 @@ Program Python berbasis menu untuk menganalisis sekumpulan nilai siswa. Pengguna
 
 ```
 git clone https://github.com/USERNAME/pertemuan-15-proyek-analisis-nilai-2225250113.git
-cd pertemuan-15-proyek-analisis-nilai-2225250075
+cd pertemuan-15-proyek-analisis-nilai-2225250113
 python3 main.py
 ```
 
